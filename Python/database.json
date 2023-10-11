@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "name": "top cool",
+      "type": 1,
+      "description": "Il est cool",
+      "img": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/-/Sites-jennyfer-catalog-master/default/dwa5f54786/images/10043342C062_82_G.jpg?sw=592",
+      "available_s": 2,
+      "available_m": 1,
+      "available_l": 0
+    },
+    {
+      "name": "top froid",
+      "type": 1,
+      "description": "Il est cool",
+      "img": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/-/Sites-jennyfer-catalog-master/default/dwa5f54786/images/10043342C062_82_G.jpg?sw=592",
+      "available_s": 2,
+      "available_m": 1,
+      "available_l": 0
+    },
+    {
+      "name": "pantalon cool",
+      "type": 2,
+      "description": "Il est cool",
+      "img": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/-/Sites-jennyfer-catalog-master/default/dw5057bf2d/images/10039739C060_81_G.jpg?sw=592",
+      "available_s": 2,
+      "available_m": 1,
+      "available_l": 0
+    },
+    {
+      "name": "pantalon pas chaud",
+      "type": 2,
+      "description": "Il est cool",
+      "img": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/-/Sites-jennyfer-catalog-master/default/dw5057bf2d/images/10039739C060_81_G.jpg?sw=592",
+      "available_s": 2,
+      "available_m": 1,
+      "available_l": 0
+    },
+    {
+      "name": "top cool",
+      "type": 1,
+      "description": "Il est cool",
+      "img": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/-/Sites-jennyfer-catalog-master/default/dwa5f54786/images/10043342C062_82_G.jpg?sw=592",
+      "available_s": 2,
+      "available_m": 1,
+      "available_l": 0
+    },
+    {
+      "name": "top froid",
+      "type": 1,
+      "description": "Il est cool",
+      "img": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/-/Sites-jennyfer-catalog-master/default/dwa5f54786/images/10043342C062_82_G.jpg?sw=592",
+      "available_s": 2,
+      "available_m": 1,
+      "available_l": 0
+    },
+    {
+      "name": "pantalon cool",
+      "type": 2,
+      "description": "Il est cool",
+      "img": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/-/Sites-jennyfer-catalog-master/default/dw5057bf2d/images/10039739C060_81_G.jpg?sw=592",
+      "available_s": 2,
+      "available_m": 1,
+      "available_l": 0
+    },
+    {
+      "name": "pantalon pas chaud",
+      "type": 2,
+      "description": "Il est cool",
+      "img": "https://www.jennyfer.com/dw/image/v2/AAQC_PRD/on/demandware.static/-/Sites-jennyfer-catalog-master/default/dw5057bf2d/images/10039739C060_81_G.jpg?sw=592",
+      "available_s": 2,
+      "available_m": 1,
+      "available_l": 0
+    }
+  ]
+}
+
